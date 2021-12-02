@@ -65,7 +65,8 @@ body {
 }
 .head h1{
     position: relative;
-    margin-top: 0;
+    margin-top: -50px;
+    margin-left: -150px;
     width: 20%;
     color: #247df0;
     cursor: pointer;
