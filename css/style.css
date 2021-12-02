@@ -113,8 +113,9 @@ body {
     }
 
     .head h1 {
-        margin-left: -75%;
+        margin-left: -155%;
         font-size: 35px;
+        margin-top: -20px;
     }
     .menu {
         box-sizing: border-box;
